@@ -1,0 +1,38 @@
+name: 🌟 許願池
+description: 想要新功能、新麻糬、新互動方式都歡迎許願
+title: "[Wish] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝你的點子！每個願望都會被認真考慮。
+
+  - type: textarea
+    id: wish
+    attributes:
+      label: 想要的功能
+      description: 描述希望加入的功能或改善
+      placeholder: 例如：希望麻糬能跟著音樂一起搖擺
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: 使用情境與動機
+      description: 在什麼情況下會用到？解決了什麼問題？
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 替代方案（選填）
+      description: 有想過其他做法嗎？
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 其他補充（選填）
+      description: 圖片、參考連結、相關資料都歡迎

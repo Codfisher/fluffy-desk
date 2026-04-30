@@ -1,0 +1,86 @@
+name: 🐛 蟲蟲回報
+description: 麻糬出狀況、行為怪怪的，或哪裡壞掉了
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝協助抓蟲！請盡量填寫以下資訊，幫助我們快速重現問題。
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 問題描述
+      description: 簡述遇到的狀況
+      placeholder: 例如：麻糬卡在螢幕邊緣動不了
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 重現步驟
+      description: 請依序列出能重現問題的操作
+      placeholder: |
+        1. 開啟 ...
+        2. 點擊 ...
+        3. 看到 ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 預期行為
+      placeholder: 麻糬應該要 ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 實際行為
+      placeholder: 但麻糬卻 ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: 作業系統
+      options:
+        - Windows 11
+        - Windows 10
+        - macOS (Apple Silicon)
+        - macOS (Intel)
+        - 其他
+    validations:
+      required: true
+
+  - type: input
+    id: os-version
+    attributes:
+      label: 作業系統版本
+      placeholder: 例如：Windows 11 23H2、macOS 14.5
+
+  - type: input
+    id: app-version
+    attributes:
+      label: Fluffy Desk 版本
+      description: 可在系統匣選單查看
+      placeholder: 例如：0.2.4
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 截圖或錄影（選填）
+      description: 直接拖曳檔案到此區域即可上傳
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 其他補充（選填）
+      description: 錯誤訊息、log、特殊設定等
