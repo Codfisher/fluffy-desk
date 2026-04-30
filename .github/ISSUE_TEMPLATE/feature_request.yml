@@ -1,5 +1,5 @@
 name: 🌟 許願池
-description: 想要新功能、新麻糬、新互動方式都歡迎許願
+description: 想要新功能、新寵物、新互動方式都歡迎許願
 title: "[Wish] "
 labels: ["enhancement"]
 body:
@@ -13,7 +13,7 @@ body:
     attributes:
       label: 想要的功能
       description: 描述希望加入的功能或改善
-      placeholder: 例如：希望麻糬能跟著音樂一起搖擺
+      placeholder: 例如：希望寵物能跟著音樂一起搖擺
     validations:
       required: true
 

@@ -1,5 +1,5 @@
-name: 🐛 蟲蟲回報
-description: 麻糬出狀況、行為怪怪的，或哪裡壞掉了
+name: 有蟲蟲！
+description: 小寵物秀逗或壞掉了
 title: "[Bug] "
 labels: ["bug"]
 body:
@@ -13,7 +13,7 @@ body:
     attributes:
       label: 問題描述
       description: 簡述遇到的狀況
-      placeholder: 例如：麻糬卡在螢幕邊緣動不了
+      placeholder: 例如：寵物卡在螢幕邊緣動不了
     validations:
       required: true
 
@@ -33,7 +33,7 @@ body:
     id: expected
     attributes:
       label: 預期行為
-      placeholder: 麻糬應該要 ...
+      placeholder: 寵物應該要 ...
     validations:
       required: true
 
@@ -41,7 +41,7 @@ body:
     id: actual
     attributes:
       label: 實際行為
-      placeholder: 但麻糬卻 ...
+      placeholder: 但寵物卻 ...
     validations:
       required: true
 
