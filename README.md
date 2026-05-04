@@ -2,7 +2,7 @@
 
 Q 彈、療癒的桌面小寵物，在你螢幕上吃糖、打瞌睡、追游標、互相依偎。(\*´ω\`)人(´ω`\*)
 
-<video src="./assets/interact-with-the-mouse.mp4" controls width="100%"></video>
+<video src="https://github.com/Codfisher/fluffy-desk/raw/main/assets/interact-with-the-mouse.mp4" controls width="100%"></video>
 
 ## 特點
 
@@ -16,11 +16,11 @@ CPU 與滑鼠等活動會累積能量，特定手勢可觸發掉落物：
 
 - **小碎屑** — 左右甩滑鼠掉出，小動物會收集或吃掉補體力
 
-    <video src="./assets/eat.mp4" controls width="100%"></video>
+    <video src="https://github.com/Codfisher/fluffy-desk/raw/main/assets/eat.mp4" controls width="100%"></video>
 
 - **中糖粒** — 滑鼠畫圈消耗能量後掉出糖粒，小動物會搬回巢穴
 
-    <video src="./assets/hauling.mp4" controls width="100%"></video>
+    <video src="https://github.com/Codfisher/fluffy-desk/raw/main/assets/hauling.mp4" controls width="100%"></video>
 
 小動物會跟滑鼠或夥伴互動，更多行為等你來發掘！੭ ˙ᗜ˙ )੭
 
