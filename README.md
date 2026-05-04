@@ -6,19 +6,19 @@ Q 彈、療癒的桌面小寵物，在你螢幕上吃糖、打瞌睡、追游標
 
 ## 特點
 
-- **不打擾工作** — 全透明、無焦點、滑鼠穿透，永遠在最上層但不擋畫面
-- **有個性** — AI 狀態機驅動，主動找掉落物、追游標玩
-- **跨平台** — Windows、macOS（Apple Silicon + Intel）
+- **不打擾工作**：全透明、無焦點、滑鼠穿透，永遠在最上層但不擋畫面
+- **有個性**：AI 狀態機驅動，主動找掉落物、追游標玩
+- **跨平台**：Windows、macOS（Apple Silicon + Intel）
 
 ## 遊玩機制
 
 CPU 與滑鼠等活動會累積能量，特定手勢可觸發掉落物：
 
-- **小碎屑** — 左右甩滑鼠掉出，小動物會收集或吃掉補體力
+- **小碎屑**：左右甩滑鼠掉出，小動物會收集或吃掉補體力
 
     ![eat](./assets/eat.gif)
 
-- **中糖粒** — 滑鼠畫圈消耗能量後掉出糖粒，小動物會搬回巢穴
+- **中糖粒**：滑鼠畫圈消耗能量後掉出糖粒，小動物會搬回巢穴
 
     ![hauling](./assets/hauling.gif)
 
@@ -34,7 +34,7 @@ CPU 與滑鼠等活動會累積能量，特定手勢可觸發掉落物：
 ### Windows
 
 1. 下載 `Fluffy-Desk-x.y.z-Setup.exe`，雙擊執行。
-2. Windows SmartScreen 會跳出「**Windows 已保護您的電腦**」藍色警告。本應用尚未購買程式碼簽章憑證，Windows 預設會擋下；原始碼公開於 [GitHub](https://github.com/Codfisher/fluffy-desk)，歡迎自行審查。點「**更多資訊**」→「**仍要執行**」繼續安裝。
+2. Windows SmartScreen 會跳出「**Windows 已保護您的電腦**」藍色警告。本應用尚未購買程式碼簽章憑證，Windows 預設會擋下；原始碼公開於 [GitHub](https://github.com/Codfisher/fluffy-desk)，歡迎自行審查。點「**其他資訊**」→「**仍要執行**」繼續安裝。
 
     ![windows-warn](./assets/windows-warn.jpg)
 
