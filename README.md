@@ -31,7 +31,7 @@ CPU 與滑鼠等活動會累積能量，特定手勢可觸發掉落物：
 - **Windows** → 檔名為 `Fluffy-Desk-x.y.z-Setup.exe` 的安裝檔
 - **macOS** → 檔名含 `darwin-arm64`（Apple Silicon）或 `darwin-x64`（Intel）的 zip
 
-> 目前還沒預算買簽章憑證，所以會出現安全警告，大家請放心。(╥ω╥`)
+> 目前還沒預算買簽章憑證，安裝時會出現安全警告，大家請放心繼續安裝。(╥ω╥`)
 
 ### Windows
 
