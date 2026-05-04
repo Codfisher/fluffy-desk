@@ -31,10 +31,12 @@ CPU 與滑鼠等活動會累積能量，特定手勢可觸發掉落物：
 - **Windows** → 檔名為 `Fluffy-Desk-x.y.z-Setup.exe` 的安裝檔
 - **macOS** → 檔名含 `darwin-arm64`（Apple Silicon）或 `darwin-x64`（Intel）的 zip
 
+> 目前還沒預算買簽章憑證，所以會出現安全警告，大家請放心。(╥ω╥`)
+
 ### Windows
 
 1. 下載 `Fluffy-Desk-x.y.z-Setup.exe`，雙擊執行。
-2. Windows SmartScreen 會跳出「**Windows 已保護您的電腦**」藍色警告。目前還沒預算買簽章憑證，所以會被擋下。(╥ω╥`)
+2. Windows SmartScreen 會跳出「**Windows 已保護您的電腦**」藍色警告。目前還沒預算買簽章憑證，所以會被擋下。(´；ω；`)
 
     點「**其他資訊**」→「**仍要執行**」繼續安裝。
 
