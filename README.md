@@ -34,7 +34,9 @@ CPU 與滑鼠等活動會累積能量，特定手勢可觸發掉落物：
 ### Windows
 
 1. 下載 `Fluffy-Desk-x.y.z-Setup.exe`，雙擊執行。
-2. Windows SmartScreen 會跳出「**Windows 已保護您的電腦**」藍色警告。本應用尚未購買程式碼簽章憑證，Windows 預設會擋下；原始碼公開於 [GitHub](https://github.com/Codfisher/fluffy-desk)，歡迎自行審查。點「**其他資訊**」→「**仍要執行**」繼續安裝。
+2. Windows SmartScreen 會跳出「**Windows 已保護您的電腦**」藍色警告。目前還沒預算買簽章憑證，所以會被擋下。(╥ω╥`)
+
+    點「**其他資訊**」→「**仍要執行**」繼續安裝。
 
     ![windows-warn](./assets/windows-warn.jpg)
 
