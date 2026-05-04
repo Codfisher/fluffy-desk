@@ -1,6 +1,6 @@
 # Fluffy Desk
 
-Q 彈、療癒的桌面小寵物，在你螢幕上吃糖、打瞌睡、追游標、互相依偎。(\*´ω\`)人(´ω`\*)
+Q 彈、療癒的桌面小寵物，在你螢幕上覓食、打瞌睡、追游標、互相依偎。(\*´ω\`)人(´ω`\*)
 
 ![interact-with-the-mouse](./assets/interact-with-the-mouse.gif)
 
